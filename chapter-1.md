@@ -1,5 +1,5 @@
 # Chương 1 : Trường tĩnh điện
-### Lực Coulomb giữa 2 điện tích điểm \( q_1 \) và \( q_2 \) đặt cách nhau một khoảng \(r\) là:
+### Lực Coulomb giữa 2 điện tích điểm $q_1$ và $ q_2 $ đặt cách nhau một khoảng \(r\) là:
 
 $$
 F = \frac{q_1 q_2}{4 \pi \epsilon \epsilon_0 r^2}
@@ -26,15 +26,29 @@ $$
 $$
 E = \frac{\lambda}{2 \pi \epsilon \epsilon_0 r}
 $$
-Với \(\lambda\) là mật độ điện dài trên dây.
+Với $\lambda$ là mật độ điện dài trên dây.
 
 ### Cường độ điện trường gây ra bởi một mặt phẳng mang điện đều là :
 $$
 E = \frac{\sigma}{2 \epsilon \epsilon_0}
 $$
 
-Với \(\sigma\) là mật độ điện mặt phẳng
+Với $\sigma$ là mật độ điện mặt phẳng
 
 ### Định lý O-G
 Thông lượng cảm ứng qua một mặt kín (S) bất kỳ bất kỳ:
+$$
+\Phi_0 = \int_S \vec{D} \cdot \vec{dS} = \sum_{i=1}^{n} q_i
+$$
 
+Với $\sum_{i=1}^{n} q_i$ là tổng điện tích điểm nằm trong mặt kín S
+
+### Công của lực tĩnh điện khi dịch chuyển điện tích điểm $q_0$ từ điểm A đến điểm B trong điện trường là 
+$$
+A = q_0 (V_A - V_B)
+$$
+
+### Tính chất thế của trường tĩnh điện :
+$$
+
+$$
