@@ -50,5 +50,10 @@ $$
 
 ### Tính chất thế của trường tĩnh điện :
 $$
-
+\oint \vec{E} \vec{dl} = \vec{0}
 $$
+
+### Hiệu điện thế giữa 
+
+
+
