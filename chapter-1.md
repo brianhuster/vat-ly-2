@@ -48,12 +48,36 @@ $$
 A = q_0 (V_A - V_B)
 $$
 
-### Tính chất thế của trường tĩnh điện :
+### Tính chất thế của trường tĩnh điện 
 $$
 \oint \vec{E} \vec{dl} = \vec{0}
 $$
 
-### Hiệu điện thế giữa 
+### Hiệu điện thế giữa 2 điểm A và B
+$$
+U_{AB} = V_A - V_B = \int_A^B \vec{E} \vec{dl}
+$$
 
+### Liên hệ giữa cường độ điện trường và điện thế
+$$
+E = - \frac{dV}{dr}
+$$
+
+### Điện thế gây ra bởi một điện tích điểm q tại một điểm cách nó khoảng r:
+$$
+V = \frac{q}{4 \pi \epsilon \epsilon_0 r}
+$$
+
+### Hiệu điện thế giữa 2 mặt cầu đồng tâm mang điện đều bằng nhau
+$$
+U = V_A - V_B = \frac{q(R_2 - R_1)}{4 \pi \epsilon \epsilon_0 R_1 R_2}
+$$
+
+### Hiệu điện thế giữa 2 mặt trụ đồng trục dài dài vô hạn mang điện tích đều bằng nhau và trái dấu
+$$
+V_1 - V_2 = \frac{\lambda}{2 \pi \epsilon \epsilon_0} \ln \frac{R_2}{R_1}
+$$
+
+với $R_1$ và $R_2$ lần lượt là bán kính trong và bán kính ngoài của mặt trụ, $\lambda$ là mật độ điện dài trên mặt trụ
 
 
