@@ -79,5 +79,3 @@ V_1 - V_2 = \frac{\lambda}{2 \pi \epsilon \epsilon_0} \ln \frac{R_2}{R_1}
 $$
 
 với $R_1$ và $R_2$ lần lượt là bán kính trong và bán kính ngoài của mặt trụ, $\lambda$ là mật độ điện dài trên mặt trụ
-
-
